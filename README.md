@@ -25,9 +25,9 @@ $ git remote remove origin
 
 <table>
 <tr>
-  <td><img align="left" src="https://github.com/mithoo18/ReadJson/blob/master/gitimg/1.jpg" alt="Json File" /></td>
+  <td><img align="left" src="https://github.com/mithoo18/ReadJson/blob/master/gitimg/2.png" alt="Json File" /></td>
 
-<td><img align="right" src="https://github.com/mithoo18/ReadJson/blob/master/gitimg/2.jpg" alt="Json File In App" /></td>
+<td><img align="right" src="https://github.com/mithoo18/ReadJson/blob/master/gitimg/1.jpg" alt="Json File In App" /></td>
 </tr>
 </table>
 
